@@ -1,0 +1,23 @@
+[
+    {
+        "productId": "20201118055327",
+        "categoryId": "C2",
+        "productImage": "asset\/_image\/20201118055403.jpg",
+        "productName": "Jilbab Kuning",
+        "productPrice": "50000"
+    },
+    {
+        "productId": "20201117041544",
+        "categoryId": "C1",
+        "productImage": "asset\/_image\/20201117041605.jpg",
+        "productName": "Sarung batik",
+        "productPrice": "120000"
+    },
+    {
+        "productId": "20201117041614",
+        "categoryId": "C1",
+        "productImage": "asset\/_image\/20201117041630.jpg",
+        "productName": "Baju Koko",
+        "productPrice": "230000"
+    }
+]

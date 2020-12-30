@@ -50,7 +50,7 @@ function getFormProduct($id = '') {
             'form' => array(
                 'productId' => date('YmdHis'),
                 'categoryId' => '',
-                'productImage' => 'http://via.placeholder.com/300',
+                'productImage' => 'https://via.placeholder.com/300',
                 'productName' => '',
                 'productPrice' => 0
             )
